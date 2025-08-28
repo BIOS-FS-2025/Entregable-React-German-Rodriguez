@@ -5,7 +5,7 @@ import React, { useState, useEffect, useContext } from "react";
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faCartShopping } from '@fortawesome/free-solid-svg-icons';
 // Importación del contexto global del carrito
-import { CarritoContext } from './CarritoContext.jsx';
+import { CarritoContext } from "./context/CarritoContext.jsx";
 
 
 

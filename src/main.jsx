@@ -17,7 +17,7 @@ import './styles/outfit.css'
 import './styles/root.css'
 
 // Importación del contexto global del carrito
-import { CarritoProvider } from './components/CarritoContext.jsx'
+import { CarritoProvider } from './components/context/CarritoContext.jsx'
 
 // Punto de entrada principal de la aplicación
 // Aquí se monta el árbol de componentes en el elemento 'root' del HTML

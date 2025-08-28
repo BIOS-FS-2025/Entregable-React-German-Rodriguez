@@ -15,7 +15,7 @@ import Productos from './components/Productos.jsx'
 import Navbar from './components/Navbar.jsx'
 
 // Importación del contexto global del carrito
-import { CarritoProvider, CarritoContext } from './components/CarritoContext.jsx'
+import { CarritoProvider, CarritoContext } from './components/context/CarritoContext.jsx'
 
 // Componente principal de la aplicación
 // Aquí se definen las rutas y la estructura general de la página

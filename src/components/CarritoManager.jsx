@@ -5,7 +5,7 @@ import { useContext } from "react";
 // Importación del componente para mostrar cada producto destacado
 import MensajesAPI from "./MensajesAPI.jsx";
 // Importación del contexto global del carrito
-import { CarritoContext } from "./CarritoContext.jsx";
+import { CarritoContext } from "./context/CarritoContext.jsx";
 
 
 // Componente para mostrar la sección de productos destacados en la página principal

@@ -7,7 +7,7 @@ import { Link } from 'react-router-dom';
 import TemaToggle from './TemaToggle.jsx';
 // Importación de hooks y contexto global del carrito
 import { useContext } from 'react';
-import { CarritoContext } from './CarritoContext.jsx';
+import { CarritoContext } from "./context/CarritoContext.jsx";
 
 
 // Componente de la barra de navegación principal
