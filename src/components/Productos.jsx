@@ -48,7 +48,7 @@ export default function Acerca() {
         <p>Ups! Esta página aún se está construyendo…</p>
         {/* Imagen ilustrativa */}
         <img 
-          src="https://thumbs.dreamstime.com/b/castor-que-se-usa-como-obrero-de-la-construcci%C3%B3n-en-casco-naranja-protector-con-expresi%C3%B3n-seria-contiene-l%C3%A1piz-y-planos-las-347746119.jpg" 
+          src="https://thumbs.dreamstime.com/b/retrato-adorable-de-tortuga-un-contratista-con-sombrero-duro-para-engranaje-seguridad-encantador-closet-una-brillante-amarillo-371348939.jpg" 
           alt="Castores trabajando" 
           style={{ maxWidth: '400px', width: '100%', borderRadius: '8px', marginTop: '1rem' }}
         />
